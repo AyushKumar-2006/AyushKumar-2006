@@ -34,7 +34,7 @@ public class AyushKumar {
 
     static String name     = "Ayush Kumar";
     static String college  = "VIT Bhopal — B.Tech CSE";
-    static String batch    = "2024 → 2028";
+    static String batch    = "2023 → 2027";
     static String location = "New Delhi, India 🇮🇳";
     static String focus    = "Web Dev + DSA + Open Source";
 
